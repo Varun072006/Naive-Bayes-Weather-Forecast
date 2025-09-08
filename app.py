@@ -2,7 +2,7 @@ import gradio as gr
 import pandas as pd
 import pickle
 
-with open("Naive-Bayes-Weather-Forecast/naive_bayes_weather_model.pkl", "rb") as f:
+with open("naive_bayes_weather_model.pkl", "rb") as f:
     nb_model = pickle.load(f)
 
 features = ['Humidity', 'Temperature', 'Wind Speed', 'Pressure']
