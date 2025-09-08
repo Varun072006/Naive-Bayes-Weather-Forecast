@@ -63,9 +63,9 @@ Evaluates classification performance:
 
 ---
 
-### 5️⃣ Streamlit App Screenshot
+### 5️⃣ Gradio App Screenshot
 Screenshot of the interactive weather prediction app:  
-![Streamlit Screenshot](Images/weather.png)
+![Streamlit Screenshot](Images/gradio.png)
 
 ---
 
